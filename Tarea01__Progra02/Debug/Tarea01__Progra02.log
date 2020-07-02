@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(65,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(66,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(69,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(70,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(103,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(104,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(105,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(105,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(127,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(136,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(149,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(149,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\loran\source\repos\Tarea01__Progra02\Tarea01__Progra02\Main.cpp(261,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tarea01__Progra02.vcxproj -> C:\Users\loran\source\repos\Tarea01__Progra02\Debug\Tarea01__Progra02.exe
